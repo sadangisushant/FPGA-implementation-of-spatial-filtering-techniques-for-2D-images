@@ -2,7 +2,8 @@
 
 This git repository contains the implementation of the paper "FPGA implementation of spatial filtering techniques for 2D images". 
 
-Publication Details:
+**Publication Details:**
+
   **Published in:** 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT)
   
   **Date of Conference:** 19-20 May 2017
